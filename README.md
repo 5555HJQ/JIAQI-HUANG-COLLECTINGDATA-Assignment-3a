@@ -8,8 +8,6 @@ CSV
 
 2.Do the number of applicants and admissions vary more in certain regions or countries?
 
-3.
-
 ## tools and methods
 Visualization tools: Use Pandas to create scatter plots and explore the relationships between variables and the distribution of data.
 
